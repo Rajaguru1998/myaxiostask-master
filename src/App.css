@@ -1,0 +1,38 @@
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+body {
+  background-color: rgb(110, 18, 175);
+  color: white;
+  font-family: "Ysabeau Infant", sans-serif;
+  text-transform: capitalize;
+  font-weight: bolder;
+}
+.btn {
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.text {
+  text-align: center;
+}
+.input-text {
+  margin-left: 5px;
+}
+.texts {
+  margin-left: 6px;
+}
